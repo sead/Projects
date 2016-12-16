@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossover.Web", "Crossover.Web\Crossover.Web.csproj", "{64355F49-38B9-4DDD-A806-11B466D3C7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossover.API", "Crossover.API\Crossover.API.csproj", "{24398389-7AF8-4B4A-84FB-DA997E3D559E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64355F49-38B9-4DDD-A806-11B466D3C7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64355F49-38B9-4DDD-A806-11B466D3C7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64355F49-38B9-4DDD-A806-11B466D3C7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64355F49-38B9-4DDD-A806-11B466D3C7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24398389-7AF8-4B4A-84FB-DA997E3D559E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24398389-7AF8-4B4A-84FB-DA997E3D559E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24398389-7AF8-4B4A-84FB-DA997E3D559E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24398389-7AF8-4B4A-84FB-DA997E3D559E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
